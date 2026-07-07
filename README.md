@@ -1,4 +1,4 @@
-# CD_TPE_4_Simulador-de-Transmisi-n-de-Datos-en-Python-con-Contexto-Real
+# CD_TPE_4_Simulador-de-Transmision-de-Datos
 # Simulador de Transmisión de Datos - UNEMI
 
 Simulador interactivo desarrollado en Python con Tkinter para la materia Comunicación de Datos en la Universidad Estatal de Milagro (UNEMI). Muestra en tiempo real cómo un mensaje de texto atraviesa las capas del modelo OSI, se codifica en binario y se transforma en una onda analógica mediante modulación ASK.
